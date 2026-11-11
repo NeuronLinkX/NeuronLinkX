@@ -3,4 +3,4 @@
 
 ### Official Website
 Info and downloads for MacAIterm, MacCAD, NotePadX and macPaint  
-https://jiwoo.dothome.co.kr/
+https://www.macarchive.co.kr/
